@@ -35,7 +35,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 | `/delete`       | DELETE | Rasm o‘chirish (token kerak)        |
 | `/files`        | GET    | Rasm ro‘yxatini olish (token kerak) |
 
-sizningdomeninggiz.uz/docs
+{sizningdomeninggiz.uz}/docs
 
 🔐 Himoya
 Barcha endpointlar x-token orqali faqat siz ishlata oladigan tarzda himoyalangan. .env faylida SECRET_TOKEN belgilanadi.
