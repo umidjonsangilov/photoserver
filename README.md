@@ -7,7 +7,7 @@ Bu oddiy va himoyalangan media server — siz rasm yuklash, ro‘yxatini ko‘ri
 ### 1. Klonlab oling
 
 ```bash
-git clone https://github.com/username/fastapi-media-host.git
+git clone https://github.com/username/photoserver.git
 cd fastapi-media-host
 ```
 ### 2. .env faylini tayyorlang
