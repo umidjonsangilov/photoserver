@@ -14,7 +14,7 @@ cd fastapi-media-host
 ```bash
 cp .env.example .env
 ```
-# va .env fayl ichiga BOT_TOKEN, CHAT_ID va SECRET_TOKEN kiriting
+va .env fayl ichiga BOT_TOKEN, CHAT_ID va SECRET_TOKEN kiriting
 
 Bu yerda BOT_TOKEN - harakat haqida ma'lumot yuborish uchun bot tokeni.
          CHAT_ID - sizning telegram idingiz bot sizga xabar yubora oladigan.
