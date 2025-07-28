@@ -2,6 +2,11 @@
 
 Bu oddiy va himoyalangan media server — siz rasm yuklash, ro‘yxatini ko‘rish, va o‘chirish amallarini bajarishingiz mumkin. Barcha jarayon Telegram bot orqali loglanadi.
 
+## 📦 Talablar
+
+- Python 3.11 yoki undan yuqori
+- pip
+
 ## 🚀 Boshlanish
 
 ### 1. Klonlab oling
