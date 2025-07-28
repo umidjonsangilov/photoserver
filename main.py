@@ -42,7 +42,7 @@ async def upload_image(image: UploadFile, x_token: str = Header(default=None)):
     with open(filepath, "wb") as f:
         content = await image.read()
         f.write(content)
-        message_text = f"📸 Yangi rasm yuklandi:\nhttps://image.sangilov.uz/media/{filename}"
+        message_text = f"📸 Yangi rasm yuklandi:\nhttps://sizningdomeningiz.uz/media/{filename}"
         await send_log(message_text)
     return {"url": f"/media/{filename}"}
 
