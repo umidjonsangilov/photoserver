@@ -2,10 +2,9 @@
 
 Bu oddiy va himoyalangan media server — siz rasm yuklash, ro‘yxatini ko‘rish, va o‘chirish amallarini bajarishingiz mumkin. Barcha jarayon Telegram bot orqali loglanadi.
 
-## 📦 Talablar
+## 🐍 Python versiyasi
 
-- Python 3.11 yoki undan yuqori
-- pip
+Loyiha Python **3.11.9** versiyasida ishlab chiqilgan.
 
 ## 🚀 Boshlanish
 
